@@ -1,0 +1,27 @@
+:root {
+  --c-dark: #000000;
+  --c-light: #ffffff;
+
+  --c-accent: #ff8f52;
+
+  --c-gray: #f2f2f2;
+  --c-gray-2: #d9d9d9;
+  --c-gray-3: #838383;
+  --c-gray-4: #454545;
+
+  --border: 1px solid var(--c-gray-2);
+
+  --border-radius: 5px;
+
+  --input-height: 64px;
+
+  --base-font-family: "Roboto", sans-serif;
+  --base-font-weight: 400;
+  --base-font-size: 22px;
+  --base-line-height: 1.5;
+
+  --grid-width: 1200px;
+  --grid-padding: 20px;
+
+  --base-transition-duration: 0.2s;
+}
